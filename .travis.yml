@@ -2,3 +2,4 @@ language: objective-c
 xcode_project: SwiftCI.xcodeproj
 xcode_scheme: SwiftCI
 xcode_sdk: iphonesimulator10.1
+osx_image: xcode8.2	
